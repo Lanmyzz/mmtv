@@ -1201,6 +1201,27 @@
             "ext": "./lib/h/麻豆映画.json",
             "jar": "./lib/h/jar/h.jar"
         },
+         {
+            "key": "探探",
+            "name": "探探",
+            "type": 1,
+            "api": "https://apittzy.com/api.php/provide/vod/?ac=list",
+            "playUrl": "https://jiexi.ttbfp1.com/m3u8/?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        { 
+            "key": "csp_CandyMuj_fuliji",
+            "name": "💖福利姬(直连)",
+            "type": 3,
+            "api": "csp_CandyMuj_fuliji",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "192.168.101.11:10020",
+            "jar": "./lib/h/jar/candymuj.jar"
+        },
         {
             "key": "csp_xBPQ_香蕉国产",
             "name": "🏆香蕉国产",
