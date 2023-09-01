@@ -37,7 +37,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "api": "./lib/lf_pushagent_min.js",
-            "ext": "./token.txt"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
         },
         {
             "key": "If_js_live",
@@ -130,7 +130,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./token.txt"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
         },
         {
             "key": "T4wogg",
@@ -142,7 +142,7 @@
             "filterable": 1,
             "playerType": 1,
             "hide": 1,
-            "ext": "./token.txt"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
         },
         {
             "key": "csp_WoGG",
@@ -153,7 +153,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "./token.txt+4k|auto|fhd+4k|auto|fhd"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd+4k|auto|fhd"
         },
         {
             "key": "drpy_js_荐片",
@@ -1178,7 +1178,7 @@
             "api": "csp_Dovx",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./token.txt+4k|auto|fhd+4k|auto|fhd"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd+4k|auto|fhd"
         },
         {
             "key": "移动云盘",
@@ -1198,7 +1198,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./token.txt"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
         },
         {
             "key": "csp_XYQHikerAL_我的小站",
@@ -1230,7 +1230,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "./token.txt+4k|auto|fhd"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
         },
         {
             "key": "YiSo",
@@ -1241,7 +1241,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "./token.txt+4k|auto|fhd"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
         },
         {
             "key": "雲搜",
@@ -1250,7 +1250,7 @@
             "api": "csp_UpYun",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./token.txt+4k|auto|fhd+4k|auto|fhd"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd+4k|auto|fhd"
         },
         {
             "key": "盤搜",
@@ -1259,7 +1259,7 @@
             "api": "csp_PanSou",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./token.txt+4k|auto|fhd+4k|auto|fhd"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd+4k|auto|fhd"
         },
         {
             "key": "盤搜索",
@@ -1268,7 +1268,7 @@
             "api": "csp_PanSearch",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./token.txt+4k|auto|fhd+4k|auto|fhd"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd+4k|auto|fhd"
         },
         {
             "key": "找資源",
@@ -1277,7 +1277,7 @@
             "api": "csp_Zhaozy",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./token.txt+4k|auto|fhd+4k|auto|fhd"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd+4k|auto|fhd"
         },
         {
             "key": "push_agent",
