@@ -2198,25 +2198,9 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "live",
-            "type": 0,
-            "url": "./lib/live/live.txt",
-            "playerType": 1,
-            "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
             "name": "小蚂蚁",
             "type": 0,
             "url": "./lib/live/小蚂蚁TV.txt",
-            "playerType": 1,
-            "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "hxnsz",
-            "type": 0,
-            "url": "./lib/live/hxnsz.txt",
             "playerType": 1,
             "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
