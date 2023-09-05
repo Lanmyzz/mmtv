@@ -188,6 +188,28 @@
             "playerType": "1"
         },
         {
+            "key": "大鹏",
+            "name": "🦅大鹏┃4K",
+            "type": 3,
+            "playerType": 1,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://s.ether-mine.com/api.php/app/"
+        },
+        {
+            "key": "彩虹",
+            "name": "🌈彩虹4K",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
+        },
+        {
             "key": "drpy_js_奇珍异兽",
             "name": "🐨┃爱奇┃官源",
             "type": 3,
