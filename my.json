@@ -411,6 +411,46 @@
             }
         },
         {
+            "key": "夜兔资源",
+            "name": "🎍┃夜兔┃4K┃",
+            "type": 1,
+            "api": "http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "天天视频",
+            "name": "🎗┃天天┃4K┃",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ttsp.live/api.php/app/"
+        },
+        {
+            "key": "北极狐",
+            "name": "🦊┃北极狐┃2K┃",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": "2",
+            "ext": "https://www.kuin.one/api.php/app/"
+        },
+        {
+            "key": "鸿运当头",
+            "name": "🍁┃鸿运┃秒播┃",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://jh.dytt996.com:990/api.php/app/"
+        },
+        {
             "key": "星影1080cms",
             "name": "星影1080 | APP",
             "type": 1,
