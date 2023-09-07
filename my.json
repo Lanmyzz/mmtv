@@ -971,7 +971,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./lib/json/哔哩哔哩.json"
+            "ext": "./lib/js/B站影视.js"
         },
         {
             "key": "相声小品",
