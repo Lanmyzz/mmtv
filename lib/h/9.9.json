@@ -505,6 +505,42 @@
             "type": 0,
             "api": "https://api.maozyapi.com/inc/api.php"
         },
+    {
+      "key": "zp157",
+      "name": "熊猫资源",
+      "type": 0,
+      "api": "http://jcspcj8.com/api?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "zp116",
+      "name": "泡芙资源",
+      "type": 0,
+      "api": "http://zmcj88.com/api?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+   {
+      "key": "zp128",
+      "name": "鲨鱼影视",
+      "type": 0,
+      "api": "https://shayuapi.com/api.php/Seacms/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "zp100",
+      "name": "乐播",
+      "type": 0,
+      "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
         {
             "key": "*博天堂",
             "name": "*博天堂",
