@@ -169,8 +169,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./lib/h/香蕉国产.json"
-
+            "ext": "./lib/h/香蕉国产.json",
+            "jar": "./lib/h/jar/h.jar"      
         },
         {
             "key": "csp_xBPQ_麻豆映画",
