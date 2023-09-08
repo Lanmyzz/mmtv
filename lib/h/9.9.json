@@ -106,7 +106,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "changeable": 0,
-            "ext": "./lib/h/罗汉果.txt"
+            "ext": "./罗汉果.txt"
         },
         {
             "key": "Hanime",
@@ -116,7 +116,7 @@
             "api": "csp_Hanime",
             "searchable": 1,
             "filterable": 1,
-            "jar": "./lib/h/jar/fm.jar"
+            "jar": "./jar/fm.jar"
         },
         {
             "key": "姐姐",
@@ -140,15 +140,15 @@
                 "type": "rect",
                 "ratio": 1.309
             },
-            "jar": "./lib/h/jar/fm.jar"
+            "jar": "./jar/fm.jar"
         },
         {
             "key": "drpy_js_玩偶姐姐",
             "name": "玩偶姐姐",
             "type": 3,
             "api": "./lib/js/drpy.min.js",
-            "ext": "./lib/h/玩偶姐姐.js",
-            "jar": "./lib/h/jar/fm.jar"
+            "ext": "./玩偶姐姐.js",
+            "jar": "./jar/fm.jar"
         },
         {
             "key": "csp_CandyMuj_fuliji",
@@ -159,7 +159,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "192.168.101.11:10020",
-            "jar": "./lib/h/jar/candymuj.jar"
+            "jar": "./jar/candymuj.jar"
         },
         {
             "key": "csp_xBPQ_香蕉国产",
@@ -169,8 +169,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./lib/h/香蕉国产.json",
-            "jar": "./lib/h/jar/h.jar"
+            "ext": "./香蕉国产.json"
         },
         {
             "key": "csp_xBPQ_麻豆映画",
@@ -180,8 +179,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./lib/h/麻豆映画.json",
-            "jar": "./lib/h/jar/h.jar"
+            "ext": "./麻豆映画.json"
         },
         {
             "key": "csp_jy",
@@ -192,8 +190,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./lib/h/聚优直播.json",
-            "jar": "./lib/h/jar/h.jar"
+            "ext": "./聚优直播.json"
         },
         {
             "key": "csp_xBPQ_香蕉直播",
@@ -203,8 +200,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./lib/h/香蕉直播.json",
-            "jar": "./lib/h/jar/h.jar"
+            "ext": "./香蕉直播.json"
         },
         {
             "key": "csp_xBPQ_天天直播",
@@ -214,8 +210,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/h/天天直播.json",
-            "jar": "./lib/h/jar/h.jar"
+            "ext": "./天天直播.json"
         },
         {
             "key": "csp_goo",
@@ -226,8 +221,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./lib/h/GAOAA.json",
-            "jar": "./lib/h/jar/h.jar"
+            "ext": "./GAOAA.json"
         },
         {
             "key": "*皇冠资源",
@@ -236,8 +230,7 @@
             "playerType": 2,
             "api": "https://hghhh.com/api.php/provide/vod/",
             "searchable": 1,
-            "quickSearch": 1,
-            "jar": "./lib/h/jar/h.jar"
+            "quickSearch": 1
         },
         {
             "key": "csp_xBPQ_聚优AV解说",
@@ -247,8 +240,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/h/水果派解说.txt",
-            "jar": "./lib/h/jar/h.jar"
+            "ext": "./水果派解说.txt"
         },
         {
             "key": "国产",
@@ -279,8 +271,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./lib/h/香蕉废柴.json",
-            "jar": "./lib/h/jar/h.jar"
+            "ext": "./香蕉废柴.json"
         },
         {
             "key": "玉兔资源",
@@ -298,8 +289,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./lib/h/黄仓库.json",
-            "jar": "./lib/h/jar/h.jar"
+            "ext": "./黄仓库.json"
         },
         {
             "key": "csp_xBPQ_天天综合",
@@ -309,8 +299,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/h/天天综合.json",
-            "jar": "./lib/h/jar/h.jar"
+            "ext": "./天天综合.json"
         },
         {
             "key": "香奶儿",
@@ -319,8 +308,7 @@
             "api": "https://www.gdlsp.com/api/xml.php",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./lib/h/jar/h.jar"
+            "filterable": 1
         },
         {
             "key": "白嫖",
@@ -329,8 +317,7 @@
             "api": "https://www.kxgav.com/api/xml.php",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./lib/h/jar/h.jar"
+            "filterable": 1
         },
         {
             "key": "msv ",
@@ -363,8 +350,7 @@
             "api": "https://www.afasu.com/api/xml.php",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./lib/h/jar/h.jar"
+            "filterable": 1
         },
         {
             "key": "探探",
@@ -373,8 +359,7 @@
             "api": "https://apittzy.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
             "quickSearch": 0,
-            "filterable": 0,
-            "jar": "./lib/h/jar/h.jar"
+            "filterable": 0
         },
         {
             "key": "乐播",
@@ -505,42 +490,42 @@
             "type": 0,
             "api": "https://api.maozyapi.com/inc/api.php"
         },
-    {
-      "key": "zp157",
-      "name": "熊猫资源",
-      "type": 0,
-      "api": "http://jcspcj8.com/api?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "zp116",
-      "name": "泡芙资源",
-      "type": 0,
-      "api": "http://zmcj88.com/api?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-   {
-      "key": "zp128",
-      "name": "鲨鱼影视",
-      "type": 0,
-      "api": "https://shayuapi.com/api.php/Seacms/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "zp100",
-      "name": "乐播",
-      "type": 0,
-      "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+        {
+            "key": "zp157",
+            "name": "熊猫资源",
+            "type": 0,
+            "api": "http://jcspcj8.com/api?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "zp116",
+            "name": "泡芙资源",
+            "type": 0,
+            "api": "http://zmcj88.com/api?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "zp128",
+            "name": "鲨鱼影视",
+            "type": 0,
+            "api": "https://shayuapi.com/api.php/Seacms/vod/at/xml/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "zp100",
+            "name": "乐播",
+            "type": 0,
+            "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
         {
             "key": "*博天堂",
             "name": "*博天堂",
