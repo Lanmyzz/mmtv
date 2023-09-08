@@ -17,7 +17,7 @@
             "api": "csp_AList",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./lib/json/alist.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Lanmyzz/mmtv/main/lib/json/alist.json"
         },
         {
             "key": "csp_Alist",
@@ -33,7 +33,7 @@
                 "💾DISK": "http://124.222.140.243:8080",
                 "💦讯维云盘": "https://pan.xwbeta.com"
             },
-            "jar": "./lib/jar/jun.jar"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/Lanmyzz/mmtv/main/lib/jar/jun.jar"
         },
         {
             "key": "WebDAV",
@@ -42,7 +42,7 @@
             "api": "csp_WebDAV",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./lib/json/webdav.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Lanmyzz/mmtv/main/lib/json/webdav.json"
         },
         {
             "key": "push_agent",
@@ -52,7 +52,7 @@
             "changeable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "api": "./lib/js/lf_pushagent_min.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/Lanmyzz/mmtv/main/lib/js/lf_pushagent_min.js",
             "ext": "./token.txt"
         },
         {
@@ -62,8 +62,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "./lib/js/lf_live10_min.js",
-            "ext": "./lib/live/lf_live.txt"
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/Lanmyzz/mmtv/main/lib/js/lf_live10_min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Lanmyzz/mmtv/main/lib/live/lf_live.txt"
         },
         {
             "key": "lf_js_search",
@@ -73,7 +73,7 @@
             "changeable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "api": "./lib/js/lf_search3_min.js"
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/Lanmyzz/mmtv/main/lib/js/lf_search3_min.js"
         },
         {
             "key": "lf_js_p2p",
@@ -83,7 +83,7 @@
             "changeable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "./lib/js/lf_p2p2_min.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/Lanmyzz/mmtv/main/lib/js/lf_p2p2_min.js",
             "ext": "18+"
         },
         {
@@ -94,7 +94,7 @@
             "changeable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "./lib/js/lf_ikanbot5_min.js"
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/Lanmyzz/mmtv/main/lib/js/lf_ikanbot5_min.js"
         },
         {
             "key": "csp_Alist1",
@@ -106,7 +106,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "changeable": 0,
-            "ext": "./罗汉果.txt"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Lanmyzz/mmtv/main/lib/h/罗汉果.txt"
         },
         {
             "key": "Hanime",
@@ -116,7 +116,7 @@
             "api": "csp_Hanime",
             "searchable": 1,
             "filterable": 1,
-            "jar": "./jar/fm.jar"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/Lanmyzz/mmtv/main/lib/h/jar/fm.jar"
         },
         {
             "key": "姐姐",
@@ -140,15 +140,15 @@
                 "type": "rect",
                 "ratio": 1.309
             },
-            "jar": "./jar/fm.jar"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/Lanmyzz/mmtv/main/lib/h/jar/fm.jar"
         },
         {
             "key": "drpy_js_玩偶姐姐",
             "name": "玩偶姐姐",
             "type": 3,
-            "api": "./lib/js/drpy.min.js",
-            "ext": "./玩偶姐姐.js",
-            "jar": "./jar/fm.jar"
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/Lanmyzz/mmtv/main/lib/js/drpy.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Lanmyzz/mmtv/main/lib/h/玩偶姐姐.js",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/Lanmyzz/mmtv/main/lib/h/jar/fm.jar"
         },
         {
             "key": "csp_CandyMuj_fuliji",
@@ -159,7 +159,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "192.168.101.11:10020",
-            "jar": "./jar/candymuj.jar"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/Lanmyzz/mmtv/main/lib/h/jar/candymuj.jar"
         },
         {
             "key": "csp_xBPQ_香蕉国产",
@@ -169,7 +169,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./香蕉国产.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Lanmyzz/mmtv/main/lib/h/香蕉国产.json"
         },
         {
             "key": "csp_xBPQ_麻豆映画",
@@ -179,7 +179,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./麻豆映画.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Lanmyzz/mmtv/main/lib/h/麻豆映画.json"
         },
         {
             "key": "csp_jy",
@@ -190,7 +190,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./聚优直播.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Lanmyzz/mmtv/main/lib/h/聚优直播.json"
         },
         {
             "key": "csp_xBPQ_香蕉直播",
@@ -200,7 +200,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./香蕉直播.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Lanmyzz/mmtv/main/lib/h/香蕉直播.json"
         },
         {
             "key": "csp_xBPQ_天天直播",
@@ -210,7 +210,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./天天直播.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Lanmyzz/mmtv/main/lib/h/天天直播.json"
         },
         {
             "key": "csp_goo",
@@ -221,7 +221,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./GAOAA.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Lanmyzz/mmtv/main/lib/h/GAOAA.json"
         },
         {
             "key": "*皇冠资源",
@@ -240,7 +240,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./水果派解说.txt"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Lanmyzz/mmtv/main/lib/h/水果派解说.txt"
         },
         {
             "key": "国产",
@@ -271,7 +271,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./香蕉废柴.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Lanmyzz/mmtv/main/lib/h/香蕉废柴.json"
         },
         {
             "key": "玉兔资源",
@@ -289,7 +289,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./黄仓库.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Lanmyzz/mmtv/main/lib/h/黄仓库.json"
         },
         {
             "key": "csp_xBPQ_天天综合",
@@ -299,7 +299,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./天天综合.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Lanmyzz/mmtv/main/lib/h/天天综合.json"
         },
         {
             "key": "香奶儿",
@@ -1589,7 +1589,7 @@
         {
             "name": "📺🔒",
             "type": 0,
-            "url": "./lib/live/live.txt",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Lanmyzz/mmtv/main/lib/live/live.txt",
             "playerType": 1,
             "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -1597,7 +1597,7 @@
         {
             "name": "📺小蚂蚁",
             "type": 0,
-            "url": "./lib/live/小蚂蚁TV.txt",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Lanmyzz/mmtv/main/lib/live/小蚂蚁TV.txt",
             "playerType": 1,
             "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -1605,7 +1605,7 @@
         {
             "name": "📺电视3",
             "type": 0,
-            "url": "./lib/live/live3.txt",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Lanmyzz/mmtv/main/lib/live/live3.txt",
             "playerType": 1,
             "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -1613,7 +1613,7 @@
         {
             "name": "📺华影视",
             "type": 0,
-            "url": "./lib/live/华影视TV.txt",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Lanmyzz/mmtv/main/lib/live/华影视TV.txt",
             "playerType": 1,
             "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -1629,7 +1629,7 @@
         {
             "name": "📺晴天",
             "type": 0,
-            "url": "./lib/live/live2.txt",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Lanmyzz/mmtv/main/lib/live/live2.txt",
             "playerType": 1,
             "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
