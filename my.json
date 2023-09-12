@@ -1,6 +1,50 @@
 {
 "lives": [
-        
+{
+            "name": "hxnsz",
+            "type": 0,
+            "url": "./lib/live/hxnsz.txt",
+            "playerType": 1,
+"boot":true,
+            "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "📺华影视",
+            "type": 0,
+            "url": "https://download.kstore.space/download/4077/%E5%8D%8E%E5%BD%B1%E8%A7%86%E7%9B%B4%E6%92%AD.txt",
+            "playerType": 1,
+"boot":true,
+            "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "📺小蚂蚁",
+            "type": 0,
+            "url": "./lib/live/小蚂蚁TV.txt",
+            "playerType": 1,
+"boot":true,
+            "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "📺电视3",
+            "type": 0,
+            "url": "./lib/live/live3.txt",
+            "playerType": 1,
+"boot":true,
+            "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "📺晴天",
+            "type": 0,
+            "url": "./lib/live/live2.txt",
+            "playerType": 1,
+"boot":true，
+            "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
         {
             "name": "📺leosam1024",
             "type": 0,
