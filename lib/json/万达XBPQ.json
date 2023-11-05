@@ -1,0 +1,21 @@
+{
+    "分类url": "https://web.w1988.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html;;a",
+    "分类": "最新热榜&电影&剧集&动漫&综艺",
+    "分类值": "45&1&2&3&4",
+    "嗅探词": "m3u8#.m3u8",
+    "数组二次截取": "<ul class=\"list&&</ul",
+    "数组": "<a&&</a[不包含:Clicky]",
+    "标题": "<div class=\"video-desc text-one-line\">&&</div>",
+    "副标题": "class=\"play-ico\">&&</span>",
+    "图片": "style=\"background-image: url(&&);\"></div>",
+    "线路二次截取": "<div class=\"plays-from\"&&</div",
+    "线路数组": "<a class=\"play-btn&&/a>[替换:奇艺视频>>万达一线#优酷视频>>万达二线#腾讯视频>>万达三线#芒果视频>>万达四线]",
+    "线路标题": ">&&<",
+    "播放数组": "<ul class=\"play-plays-list play-sort-list&&</ul",
+    "搜索模式": "1",
+    "搜索url": "https://web.w1988.cc/index.php/vod/search/wd/{wd}.html",
+    "搜索二次截取": "<ul class=\"list&&</ul",
+    "搜索图片": "style=\"background-image: url(&&);\"></div>",
+    "搜索副标题": "class=\"play-ico\">&&</span>",
+    "搜索数组": "<a&&</a[不包含:Clicky]"
+}
